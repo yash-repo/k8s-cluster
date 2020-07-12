@@ -1,2 +1,12 @@
 # k8s-cluster
-One click and k8s cluster will be created
+
+Prerequsites
+
+1) Install Vagrant
+2) Install Ansible
+3) VirtualBox
+
+# git clone https://github.com/yash-repo/k8s-cluster.git
+
+# vagrant up 
+
