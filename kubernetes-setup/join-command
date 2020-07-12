@@ -1,0 +1,1 @@
+kubeadm join 192.168.50.10:6443 --token lealja.kwtv7cwksluxs6wm     --discovery-token-ca-cert-hash sha256:728574565768f4213252f4a7a7534c694bfd494d984b1072b9a0c8019e05efa3 
